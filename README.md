@@ -12,3 +12,4 @@ semana omnistack
 
 Para iniciar, abra a pasta do backend no IDE e insira no terminal "npm start", em seguida abra a pasta do frontend e insira no terminal "npm start".
 
+![](Images/main.png)
